@@ -1,0 +1,1 @@
+This is a sample file to create new file under existing project directory
